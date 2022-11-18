@@ -31,30 +31,22 @@
 <a href = "https://journalists.org/resources/early-career-tips-from-our-2019-mj-bear-fellows/"><img src="https://journalists.org/wp-content/uploads/2019/10/ONA_Conference_2019_2AD5374-e1570482353142.jpg"/></a>
 
 ### Early career tips for journalists and students: Online News Association, New Orleans, 2019
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
-### Category Name 2
+## Taught at:
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+◉ Indian Institute of Mass Communication, New Delhi (1 semester of data journalism)</br>
+◉ AJK Mass Communication Research Center, New Delhi (Former guest faculty)</br>
+◉ Symbiosis Center for Media and Communication, Pune (6 sessions on data journalism)</br>
+◉ University of Indonesia, Jakarta (1 session on 'How to use R' for data journalism)</br>
+◉ Maharashtra Institute of Technology (1 session on 'Introduction to Data Journalism')</br>
+◉ Indian Institute of Techonolgy, Gandhinagar (1 session on 'Introduction to Data Journalism')</br>
 
 ---
+Have an idea? Let's collaborate.
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
