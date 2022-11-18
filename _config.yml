@@ -1,10 +1,8 @@
 title: Shadab Nazmi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Senior Journalist 
-  <br><br>
-  Visual and Data Journalism
-  <br><br>
+  Senior Journalist | Visual and Data Journalism
+ 
   <a href="https://www.linkedin.com/in/shadabnazmi/">Connect on LinkedIn</a> 
   
 theme: jekyll-theme-minimal
