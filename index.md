@@ -43,7 +43,11 @@
 ◉ Indian Institute of Techonolgy, Gandhinagar (1 session on 'Introduction to Data Journalism')</br>
 
 ---
-Have an idea? Let's collaborate.
+## Random thoughts?
+<img src="https://pbs.twimg.com/media/FhrM_1fUoAUkfLk?format=jpg&name=large"/>
+Isometric map of Quetta region made on R by Shadab Nazmi </br>
+
+### Let's collaborate. Follow me on <a href = "https://twitter.com/shadabnazmi">Twitter</a> to see my stories and visualisations.
 
 
 
