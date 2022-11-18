@@ -19,7 +19,7 @@
 
 ◉ Visual essays: What <a href ="https://www.bbc.com/hindi/extra/orIkBvrrzN/ayodya_land_dispute">happened</a> in Ayodhya? The <a href ="https://www.bbc.co.uk/sport/extra/vjVnELf6Ih/shapes_cricket_stadiums">many</a> shapes of England cricket stadiums
 
-◉ Personalised calculators: <a href = "https://www.bbc.com/hindi/india-47025982">Comparison</a> of essential commodity prices in 2014, 2019 and 2022. How well do you know your local MLAs: An <a href ="https://www.bbc.com/hindi/resources/idt-7f9b7c45-27d7-4599-a326-c71be67273f0">analysis</a> of MLAs wealth, education and criminal background
+◉ Personalised calculators: <a href = "https://www.bbc.com/hindi/india-47025982">Comparison</a> of essential commodity prices in 2014, 2019 and 2022. How well do you know your local MLAs: An <a href ="https://www.bbc.com/hindi/resources/idt-7f9b7c45-27d7-4599-a326-c71be67273f0">analysis</a> of MLAs wealth, education and criminal background.
 
 ### 👉 <a href ="https://muckrack.com/shadab-nazmi/articles">See all stories</a>
 ---
