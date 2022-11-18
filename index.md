@@ -7,7 +7,7 @@
 ### Work
 <img src="https://data.whicdn.com/images/188337945/original.gif"/>
 
-#### I have worked on local, state and general elections across South Asia, created personalised calculators and multiple data-driven investigations. Some of my important work:
+#### I have worked on local, state and general elections across South Asia, created personalised calculators and multiple data-driven investigations. Some of my important works:
 
 ◉ General Elections in <a href ="https://www.bbc.com/news/world-asia-india-48315659">India</a>, <a href ="https://www.bbc.com/urdu/pakistan-44922604">Pakistan</a>, <a href ="https://www.bbc.com/bengali/news-46603636">Bangladesh</a> and <a href = "https://www.bbc.com/sinhala/50434444">Sri Lanka</a>. Want to know, how we covered these elections from Delhi? Read more <a href = "https://shadabnazmi.medium.com/how-delhi-visual-journalism-covered-pakistan-elections-b55a8ebc3b96">here.</a>
 
@@ -35,17 +35,22 @@
 
 ## Taught at:
 
-<br>◉ Indian Institute of Mass Communication, New Delhi (1 semester of data journalism)</br>
-<br>◉ AJK Mass Communication Research Center, New Delhi (Former guest faculty)</br>
-<br>◉ Symbiosis Center for Media and Communication, Pune (6 sessions on data journalism)</br>
-<br>◉ University of Indonesia, Jakarta (1 session on 'How to use R' for data journalism)</br>
-<br>◉ Maharashtra Institute of Technology (1 session on 'Introduction to Data Journalism')</br>
-<br>◉ Indian Institute of Techonolgy, Gandhinagar (1 session on 'Introduction to Data Journalism')</br>
+◉ Indian Institute of Mass Communication, New Delhi (1 semester of data journalism)
+
+◉ AJK Mass Communication Research Center, New Delhi (Former guest faculty)
+
+◉ Symbiosis Center for Media and Communication, Pune (6 sessions on data journalism)
+
+◉ University of Indonesia, Jakarta (1 session on 'How to use R' for data journalism)
+
+◉ Maharashtra Institute of Technology (1 session on 'Introduction to Data Journalism')
+
+◉ Indian Institute of Techonolgy, Gandhinagar (1 session on 'Introduction to Data Journalism')
 
 ---
 ## Random thoughts?
 <img src="https://pbs.twimg.com/media/FhrM_1fUoAUkfLk?format=jpg&name=large"/>
-<br>Isometric map of Quetta region made on R by Shadab Nazmi </br>
+Isometric map of Quetta region made on R by Shadab Nazmi
 
 ### Let's collaborate. Follow me on <a href = "https://twitter.com/shadabnazmi">Twitter</a> to see my stories and visualisations.
 
