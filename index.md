@@ -10,8 +10,11 @@
 
 ◉ General Elections in <a href ="https://www.bbc.com/news/world-asia-india-48315659">India</a>, <a href ="https://www.bbc.com/urdu/pakistan-44922604">Pakistan</a>, <a href ="https://www.bbc.com/bengali/news-46603636">Bangladesh</a> and <a href = "https://www.bbc.com/sinhala/50434444">Sri Lanka</a>. Want to know, how we covered these elections from Delhi? Read more <a href = "https://shadabnazmi.medium.com/how-delhi-visual-journalism-covered-pakistan-elections-b55a8ebc3b96">here.</a>
 
-◉ Data-driven investigations: An <a href ="https://www.bbc.co.uk/news/resources/idt-e5043092-f7f0-42e9-9848-5274ac896e6d">analysis </a> of 30 million news articles to find the number of WhatsApp based rumour based deaths in India. Airtel's data <a href ="https://www.bbc.com/news/world-asia-india-50641608">breach</a> which compromised 350 million users' personal data
+◉ Local and state elections in <a href = "https://www.bbc.co.uk/news/resources/idt-b319d877-1dbf-4faa-a77d-b07da2f406ef">six </a> Indian languages.
 
+◉ Data-driven investigations: An <a href ="https://www.bbc.co.uk/news/resources/idt-e5043092-f7f0-42e9-9848-5274ac896e6d">analysis </a> of 30 million news articles to find the number of WhatsApp based rumour based deaths in India. Airtel's data <a href ="https://www.bbc.com/news/world-asia-india-50641608">breach</a> which compromised 350 million users' personal data.
+
+◉ Covid-19: What's <a href = "https://www.bbc.com/news/world-asia-india-54352222">driving</a> India's 100,000 Covid-19 deaths? Coronavirus: Is India the <a href = "https://www.bbc.com/news/world-asia-india-53284144">next</a> global hotspot? Deadly second wave <a href ="https://www.bbc.com/news/world-asia-india-56913047">spreads</a> from cities to small towns. Coronavirus: The human <a href ="https://www.bbc.com/news/world-asia-india-53165436">cost</a> of fake news in India
 
 [Covid-19](/sample_page)
 <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/10719/production/_113435376_india_states_cases_tests-nc.png"/>
