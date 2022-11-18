@@ -1,9 +1,9 @@
-title: Shadab Nazmi{text-align: center;} # your name (or website title) here
+title: Shadab Nazmi # your name (or website title) here
 logo: "https://i.ibb.co/QNxY8jj/Shadab-Mugshot-modified.png"<br></br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Journalist | Visual and Data Journalism{text-align: center;} <br></br>
  
-  <a href="https://www.linkedin.com/in/shadabnazmi/">Connect on LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/shadabnazmi/">Connect on LinkedIn</a><br></br>
   <a href="https://github.com/shadabnazmi/dry_test/blob/master/Resume_Shadab_Nazmi_N_2022.pdf">See my resume</a> 
   
 theme: jekyll-theme-minimal
