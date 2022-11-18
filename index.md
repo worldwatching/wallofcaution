@@ -1,5 +1,5 @@
-## Work
-
+## Introduction
+### I am Shadab Nazmi, a senior data journalist with BBC News in New Delhi India. I analyse, visualise data for storytelling. 
 ---
 
 ### Charts & Graphics
