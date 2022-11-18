@@ -52,7 +52,7 @@
 <img src="https://pbs.twimg.com/media/FhrM_1fUoAUkfLk?format=jpg&name=large"/>
 Isometric map of Quetta region made on R by Shadab Nazmi
 
-### Let's collaborate. Follow me on <a href = "https://twitter.com/shadabnazmi">Twitter</a> to see my stories and visualisations.
+### Let's collaborate. Catch up on <a href = "https://twitter.com/shadabnazmi">Twitter?</a>
 
 
 
