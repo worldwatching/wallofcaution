@@ -35,12 +35,12 @@
 
 ## Taught at:
 
-◉ Indian Institute of Mass Communication, New Delhi (1 semester of data journalism)</br>
-◉ AJK Mass Communication Research Center, New Delhi (Former guest faculty)</br>
-◉ Symbiosis Center for Media and Communication, Pune (6 sessions on data journalism)</br>
-◉ University of Indonesia, Jakarta (1 session on 'How to use R' for data journalism)</br>
-◉ Maharashtra Institute of Technology (1 session on 'Introduction to Data Journalism')</br>
-◉ Indian Institute of Techonolgy, Gandhinagar (1 session on 'Introduction to Data Journalism')</br>
+<br>◉ Indian Institute of Mass Communication, New Delhi (1 semester of data journalism)</br>
+<br>◉ AJK Mass Communication Research Center, New Delhi (Former guest faculty)</br>
+<br>◉ Symbiosis Center for Media and Communication, Pune (6 sessions on data journalism)</br>
+<br>◉ University of Indonesia, Jakarta (1 session on 'How to use R' for data journalism)</br>
+<br>◉ Maharashtra Institute of Technology (1 session on 'Introduction to Data Journalism')</br>
+<br>◉ Indian Institute of Techonolgy, Gandhinagar (1 session on 'Introduction to Data Journalism')</br>
 
 ---
 ## Random thoughts?
