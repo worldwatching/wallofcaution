@@ -26,11 +26,11 @@
 ## Interviews and conversations
 
 <a href="https://tcij.org/summer-conference-event/cijsummer-india-covid-19-discussion/"><img src="https://i.ytimg.com/vi/n0fQuPDFAks/maxresdefault.jpg"/></a>
-### No Country Left Behind? The Indian Covid-19 catastrophe: The Center for Investigative Journalism
+#### No Country Left Behind? The Indian Covid-19 catastrophe: The Center for Investigative Journalism
 
 <a href = "https://journalists.org/resources/early-career-tips-from-our-2019-mj-bear-fellows/"><img src="https://journalists.org/wp-content/uploads/2019/10/ONA_Conference_2019_2AD5374-e1570482353142.jpg"/></a>
 
-### Early career tips for journalists and students: Online News Association, New Orleans, 2019
+#### Early career tips for journalists and students: Online News Association, New Orleans, 2019
 ---
 
 ## Taught at:
@@ -45,7 +45,7 @@
 ---
 ## Random thoughts?
 <img src="https://pbs.twimg.com/media/FhrM_1fUoAUkfLk?format=jpg&name=large"/>
-Isometric map of Quetta region made on R by Shadab Nazmi </br>
+<br>Isometric map of Quetta region made on R by Shadab Nazmi </br>
 
 ### Let's collaborate. Follow me on <a href = "https://twitter.com/shadabnazmi">Twitter</a> to see my stories and visualisations.
 
