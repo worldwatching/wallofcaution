@@ -4,7 +4,7 @@
 #### Get in <a href = "mailto: shadab.nazmi@bbc.co.uk">touch!</a>
 ---
 
-### Work
+## Work
 <img src="https://data.whicdn.com/images/188337945/original.gif"/>
 
 #### I have worked on local, state and general elections across South Asia, created personalised calculators and multiple data-driven investigations. Some of my important works:
