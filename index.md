@@ -1,11 +1,11 @@
-## Portfolio
+## Work
 
 ---
 
-### Category Name 1 
+### Charts & Graphics
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Covid-19](/sample_page)
+<img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/10719/production/_113435376_india_states_cases_tests-nc.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
