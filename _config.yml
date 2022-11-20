@@ -1,9 +1,9 @@
-title: Shadab Nazmi
-logo:  "https://i.ibb.co/j9KNrPs/resume-shadab-nazmi.png"<br></br>
+title: Shadab Nazmi # your name (or website title) here
+logo:  "https://i.ibb.co/j9KNrPs/resume-shadab-nazmi.png"
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Journalist | Visual and Data Journalism<br></br>
- 
-  <a href="https://www.linkedin.com/in/shadabnazmi/">Connect on LinkedIn</a><br></br>
+ Journalist | Visual and Data Journalism
+ <br><br>
+ <a href="https://www.linkedin.com/in/shadabnazmi/">Connect on LinkedIn</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
