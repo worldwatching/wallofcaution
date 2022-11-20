@@ -33,19 +33,19 @@
 #### Early career tips for journalists and students: Online News Association, New Orleans, 2019
 ---
 
-## Taught at:
+## Teaching experience:
 
-◉ Indian Institute of Mass Communication, New Delhi (1 semester of data journalism)
+◉ IIMC, New Delhi: One semester of data journalism
 
-◉ AJK Mass Communication Research Center, New Delhi (Former guest faculty)
+◉ AJK MCRC, New Delhi: Former guest facult
 
-◉ Symbiosis Center for Media and Communication, Pune (6 sessions on data journalism)
+◉ Symbiosis Center for Media and Communication, Pune: Six sessions on data journalism
 
-◉ University of Indonesia, Jakarta (1 session on 'How to use R' for data journalism)
+◉ University of Indonesia, Jakarta: One session on 'How to use R' for data journalism
 
-◉ Maharashtra Institute of Technology (1 session on 'Introduction to Data Journalism')
+◉ Maharashtra Institute of Technology: One session on 'Introduction to Data Journalism'
 
-◉ Indian Institute of Techonolgy, Gandhinagar (1 session on 'Introduction to Data Journalism')
+◉ Indian Institute of Techonolgy, Gandhinagar: One session on 'Introduction to Data Journalism'
 
 ---
 ## Random thoughts?
