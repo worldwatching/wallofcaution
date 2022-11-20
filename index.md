@@ -6,6 +6,7 @@
 
 ## Work
 
+<img src="https://i.ibb.co/4j7ZXYj/shada.png"/>
 
 #### I have worked on local, state and general elections across South Asia, created personalised calculators and multiple data-driven investigations. Some of my important works:
 
