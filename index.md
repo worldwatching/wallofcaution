@@ -38,7 +38,7 @@
 
 ◉ IIMC, New Delhi: One semester of data journalism
 
-◉ AJK MCRC, New Delhi: Former guest facult
+◉ AJK MCRC, New Delhi: Former guest faculty
 
 ◉ Symbiosis Center for Media and Communication, Pune: Six sessions on data journalism
 
