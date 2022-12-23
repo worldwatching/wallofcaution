@@ -34,6 +34,18 @@
 #### Early career tips for journalists and students: Online News Association, New Orleans, 2019
 ---
 
+## Awards & Recognition
+
+<img src="https://i.ibb.co/4j7ZXYj/shada.png"/>
+
+Speaker and fellow, Online News Association, New Orleans, United States [September, 2019]
+
+<img src="https://www.whoi.edu/wp-content/uploads/2019/03/2017-graphics-OSJ_Fellows.jpg"/>
+
+Woods Hole Oceanographic Institute <a href = "https://www.whoi.edu/press-room/journalism-fellowship/past-fellows/"Fellow></a>, Boston, United States [September, 2017]
+
+
+
 ## Teaching experience:
 
 ◉ IIMC, New Delhi: One semester of data journalism
