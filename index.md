@@ -36,29 +36,32 @@
 
 ## Awards & Recognition
 
-<img src="https://i.ibb.co/4j7ZXYj/shada.png"/>
+National Press Foundation <a href = "https://nationalpress.org/newsfeed/npf-selects-22-journalists-for-2022-international-trade-fellowship-in-singapore/">fellow</a>, Singapore [August, 2022]
 
-Speaker and fellow, Online News Association, New Orleans, United States [September, 2019]
+Speaker and <a href = "https://journalists.org/programs/mj-bear-fellowship/">fellow</a>, Online News Association, New Orleans, United States [September, 2019]
 
 <img src="https://www.whoi.edu/wp-content/uploads/2019/03/2017-graphics-OSJ_Fellows.jpg"/>
 
-Woods Hole Oceanographic Institute <a href = "https://www.whoi.edu/press-room/journalism-fellowship/past-fellows/"Fellow></a>, Boston, United States [September, 2017]
 
+Woods Hole Oceanographic Institute <a href = "https://www.whoi.edu/press-room/journalism-fellowship/past-fellows/">Fellow</a>, Boston, United States [September, 2017]
 
+Young Data Journalist of the Award <a href = "https://medium.com/data-journalism-awards/the-data-journalism-awards-2017-shortlist-6697cbac334f">nominee</a>, Data Journalism Awards [2017]
+
+Winner, All India Environment Journalism Award for the <a href = "https://www.indialegallive.com/in-pictures/computer-graveyard/">photo essay</a> on electronic waste disposal in Delhi [2015]
+
+---
 
 ## Teaching experience:
 
 ◉ IIMC, New Delhi: One semester of data journalism
 
-◉ AJK MCRC, New Delhi: Former guest faculty
+◉ AJK MCRC, New Delhi:Guest faculty
 
 ◉ Symbiosis Center for Media and Communication, Pune: Six sessions on data journalism
 
 ◉ University of Indonesia, Jakarta: One session on 'How to use R' for data journalism
 
 ◉ Maharashtra Institute of Technology: One session on 'Introduction to Data Journalism'
-
-◉ Indian Institute of Techonolgy, Gandhinagar: One session on 'Introduction to Data Journalism'
 
 ---
 ## Random thoughts?
