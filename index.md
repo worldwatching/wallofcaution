@@ -36,6 +36,8 @@
 
 ## Awards & Recognition
 
+Posit PBC Opportunity Scholar [Formely known as R Studio], Chicago [September,2023]
+
 National Press Foundation <a href = "https://nationalpress.org/newsfeed/npf-selects-22-journalists-for-2022-international-trade-fellowship-in-singapore/">fellow</a>, Singapore [August, 2022]
 
 Speaker and <a href = "https://journalists.org/programs/mj-bear-fellowship/">fellow</a>, Online News Association, New Orleans, United States [September, 2019]
