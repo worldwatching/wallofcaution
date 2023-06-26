@@ -36,7 +36,7 @@
 
 ## Awards & Recognition
 
-Posit PBC Opportunity Scholar [Formely known as R Studio], Chicago [September,2023]
+Posit PBC Opportunity Scholar [Formely known as R Studio], Chicago, United States [September,2023]
 
 National Press Foundation <a href = "https://nationalpress.org/newsfeed/npf-selects-22-journalists-for-2022-international-trade-fellowship-in-singapore/">fellow</a>, Singapore [August, 2022]
 
@@ -57,7 +57,7 @@ Winner, All India Environment Journalism Award for the <a href = "https://www.in
 
 ◉ IIMC, New Delhi: One semester of data journalism
 
-◉ AJK MCRC, New Delhi:Guest faculty
+◉ AJK MCRC, New Delhi: Guest faculty
 
 ◉ Symbiosis Center for Media and Communication, Pune: Six sessions on data journalism
 
