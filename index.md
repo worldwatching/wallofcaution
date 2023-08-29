@@ -1,4 +1,7 @@
 ## Shadab Nazmi | Data Journalist
+
+<img src = "https://i.pinimg.com/originals/41/fe/5d/41fe5dbe30a570621741bb93163dcf7d.gif"/>
+
 ####  👋 I am Shadab Nazmi, a senior data journalist with BBC News in New Delhi, India. I analyse, visualise data for storytelling in six Indian and four South Asian languages. 
 
 #### Get in <a href = "mailto: shadabnazmi@gmail.com">touch!</a>
