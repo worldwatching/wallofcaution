@@ -13,9 +13,14 @@
 
 #### I have worked on local, state and general elections across South Asia, created personalised calculators and multiple data-driven investigations. Some of my important works:
 
+## Graphics
+### India tunnel collapse
+<img src="https://i.ibb.co/5WTQVyV/tunnel.png"/>
+Uttarakhand tunnel collapse: Drilling machine brings <a href = "https://www.bbc.com/news/world-asia-india-67435642">hope</a> to trapped Indian workers
+
+
 ## Elections in South Asia
 
-<img src = "https://miro.medium.com/v2/resize:fit:1400/0*5KcUXrkHt77JlPV2"/>
 ◉ General Elections in <a href ="https://www.bbc.com/news/world-asia-india-48315659">India</a>, <a href ="https://www.bbc.com/urdu/pakistan-44922604">Pakistan</a>, <a href ="https://www.bbc.com/bengali/news-46603636">Bangladesh</a> and <a href = "https://www.bbc.com/sinhala/50434444">Sri Lanka</a>. Want to know, how we covered these elections from Delhi? Read more <a href = "https://shadabnazmi.medium.com/how-delhi-visual-journalism-covered-pakistan-elections-b55a8ebc3b96">here.</a>
 
 ◉ Local and state elections in <a href = "https://www.bbc.co.uk/news/resources/idt-b319d877-1dbf-4faa-a77d-b07da2f406ef">six </a> Indian languages. Latest state election results in India's southern state of <a href = "https://www.bbc.com/hindi/resources/idt-5f4e9208-dfc6-4dd7-b416-e7531162a9af">Karnataka</a>
