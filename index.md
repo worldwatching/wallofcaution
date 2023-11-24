@@ -21,7 +21,7 @@ Uttarakhand tunnel collapse: Drilling machine brings <a href = "https://www.bbc.
 
 ## Elections in South Asia
 
-◉ General Elections in <a href ="https://www.bbc.com/news/world-asia-india-48315659">India</a>, <a href ="https://www.bbc.com/urdu/pakistan-44922604">Pakistan</a>, <a href ="https://www.bbc.com/bengali/news-46603636">Bangladesh</a> and <a href = "https://www.bbc.com/sinhala/50434444">Sri Lanka</a>. Want to know, how we covered these elections from Delhi? Read more <a href = "https://shadabnazmi.medium.com/how-delhi-visual-journalism-covered-pakistan-elections-b55a8ebc3b96">here.</a>
+◉ General Elections in <a href ="https://www.bbc.com/news/world-asia-india-48315659">India</a>, <a href ="https://www.bbc.com/urdu/pakistan-44922604">Pakistan</a> and <a href ="https://www.bbc.com/bengali/news-46603636">Bangladesh</a>. Want to know, how we covered these elections from Delhi? Read more <a href = "https://shadabnazmi.medium.com/how-delhi-visual-journalism-covered-pakistan-elections-b55a8ebc3b96">here.</a>
 
 ◉ Local and state elections in <a href = "https://www.bbc.co.uk/news/resources/idt-b319d877-1dbf-4faa-a77d-b07da2f406ef">six </a> Indian languages. Latest state election results in India's southern state of <a href = "https://www.bbc.com/hindi/resources/idt-5f4e9208-dfc6-4dd7-b416-e7531162a9af">Karnataka</a>
 
@@ -49,7 +49,7 @@ Uttarakhand tunnel collapse: Drilling machine brings <a href = "https://www.bbc.
 
 ## Awards & Recognition
 
-Posit PBC Opportunity Scholar [Formely known as R Studio], Chicago, United States [September,2023]
+Posit PBC Opportunity Scholar [Formely known as R Studio], Chicago, United States [September, 2023]
 
 National Press Foundation <a href = "https://nationalpress.org/newsfeed/npf-selects-22-journalists-for-2022-international-trade-fellowship-in-singapore/">fellow</a>, Singapore [August, 2022]
 
@@ -68,15 +68,17 @@ Winner, All India Environment Journalism Award for the <a href = "https://www.in
 
 ## Teaching experience:
 
-◉ IIMC, New Delhi: One semester of data journalism
+University of Indonesia, Jakarta
 
-◉ AJK MCRC, New Delhi: Guest faculty
+University of Madison, Wisconsin, United States 
 
-◉ Symbiosis Center for Media and Communication, Pune: Six sessions on data journalism
+Indian Institute of Mass Communication, New Delhi
 
-◉ University of Indonesia, Jakarta: One session on 'How to use R' for data journalism
+AJK MCRC, Jamia Millia University, New Delhi
 
-◉ Maharashtra Institute of Technology: One session on 'Introduction to Data Journalism'
+Symbiosis Center for Media and Communication, Pune
+
+Maharashtra Institute of Technology
 
 ---
 ## Random thoughts?
