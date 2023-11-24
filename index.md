@@ -80,6 +80,20 @@ Symbiosis Center for Media and Communication, Pune
 
 Maharashtra Institute of Technology
 
+## Citations:
+
+<a href = "http://www.envirobiotechjournals.com/EEC/vol28maysuppl/EEC-34.pdf">COVID-19 Pandemic in India</a>: First Wave v/s Second Wave: Rashmi Rameshwari, Devendra Kumar Verma and Meenu Aggarwal [EM International]
+
+<a href = "https://mantraya.org/occasional-paper-use-of-air-power-the-missing-link-in-anti-taliban-operations-in-afghanistan/">Use of Air Power</a>: The Missing Link in anti-Taliban Operations in Afghanistan, Shanthie Mariet D’Souza
+
+<a href = "http://ojs.thesvi.org/index.php/ojs/article/view/130">India's Soft Power Image</a>: A Case Study of the Indian Economy under Modi
+
+<a href = "https://www.researchgate.net/profile/Gyan-Jyoti/publication/351813219_Perception_of_Undergraduate_Nursing_Students_Regarding_Online_Learning_during_COVID-19_Second_Wave/links/60ab9620a6fdcc6d626da8bc/Perception-of-Undergraduate-Nursing-Students-Regarding-Online-Learning-during-COVID-19-Second-Wave.pdf">Perception</a> of Undergraduate Nursing Students Regarding Online Learning during COVID-19 Second Wave, International Journal of Science and Research (IJSR)
+
+<a href = "https://datacatalyst.org/wp-content/uploads/2020/06/Data-Nationalism-on-the-Rise.pdf">Data Nationalism</a> on the Rise: THE GLOBAL PUSH FOR STATE CONTROL OF DATA, Jennifer Daskal and Justin Sherman June 2020
+
+<a href = "https://d1wqtxts1xzle7.cloudfront.net/77918182/JETIR2107178-libre.pdf?1641186918=&response-content-disposition=inline%3B+filename%3DCovid_19_Predicting_third_wave_using_Neu.pdf&Expires=1700820367&Signature=O-lofbZOF9cl7SOb-T7j-T8UBERm43f3ky6qJYj~jDKb295~91FCcTrlu9Jmecqo9IXAkvcT1u5Ic5z~WD0ne5hHoWCZiA6ngzkGXBxx0hOYz5YuYPKaRRp2bwFT0VeO-aEAUA9WhsfuTBA97wRRPk0g6jyC3cj0zWsswvEFKcseGdmSRg3KLfNiOVbSvW7oJu95jcjGAFj9jZMVOULZE6jraWv5~9WPk7~jQZzFA~LIc0wkpSaTI7bD9GL65m1L01ue7LtTdKCjNVVwQgT4LODFI1MGiIxpYBWsOtp1BHaONHHNCzzpGAy-RWQTo-dtbsEaxQz9pVG0ljw1gKJYTw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Covid-19</a>: Predicting third wave using Neural Network, Gurpreet Singh Tuteja, Tapshi Lal, Zakir Hussain College
+
 ---
 ## Random thoughts?
 <img src="https://pbs.twimg.com/media/FhrM_1fUoAUkfLk?format=jpg&name=large"/>
