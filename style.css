@@ -1,0 +1,44 @@
+/* Centering the main content */
+.container-lg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Styling the headers */
+h2 {
+  font-size: 2.5em;
+  margin-top: 30px;
+  color: #333;
+}
+
+h4 {
+  font-size: 1.5em;
+  color: #555;
+}
+
+/* Styling the images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling the links */
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Adding some spacing */
+p {
+  margin-bottom: 20px;
+}
