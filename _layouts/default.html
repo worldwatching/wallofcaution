@@ -1,161 +1,707 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shadab Nazmi</title>
-  <style>
-      /* Body styles */
-    body {
-      font-family: Courier, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
-    }
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
-    /* Header styles */
-    header {
-      background-color: #1380a1;
-      color: #fff;
-      text-align: center;
-      padding: 20px 0;
-    }
+<title>Shadab Nazmi</title>
 
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
-    }
-
-    /* Main content styles */
-    .container {
-      max-width: 800px;
-      margin: 20px auto;
-      padding: 20px;
-      background-color: #fff;
-      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-      border-radius: 8px;
-    }
-
-    /* Section heading styles */
-    h2 {
-      font-size: 1.8em;
-      margin-top: 30px;
-      color: #808080;
-    }
-
-    /* Image styles */
-    img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 8px;
-      margin-top: 20px;
-      box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
-    }
-
-    /* Link styles */
-    a {
-      text-decoration: none;
-      color: #007bff;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-    </style>
+<style type="text/css">
+  @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700);
+  @import url(styles/lightbox.css);
+  @import url(styles/main.css);
+</style>
 </head>
 
+
 <body>
-  <header>
-    <h1>Shadab Nazmi</h1>
-  </header>
 
-  <div class="container">
-    <h2>👋 I am Shadab Nazmi, a senior data journalist with BBC News in New Delhi, India.</h2>
-    <p>I analyze and visualize data for storytelling in six Indian and four South Asian languages.</p>
-    <p>Get in <a href="mailto:shadabnazmi@gmail.com">touch!</a></p>
+<script src="scripts/jquery-1.7.2.min.js"></script>
+<script src="scripts/lightbox.js"></script>
 
-    <!-- Work Section -->
-    <section>
-      <h2>Work</h2>
+  <div class="content">
+    <style>
+    .reveal { display:none; }
+    .revealed .reveal { display: inline; }
+    .revealed #more { display:none; }
+    </style>
+    <div class="header" id="header">
+        <h1>Jin Wu</h1>
+        <br/>
+        <span class="fade">
+          <p>I'm currently a data and graphics journalist at Bloomberg News, based in Hong Kong. I tell stories with data, design and code, with a main focus on Asia news.</p>
+          
+          <p>Previously I was part of the graphics teams at The New York Times and Reuters.</p>
+    
+          <p>You can reach me by email at <em>jinwujour at gmail dot com</em>, or DM on Twitter <em>@jwf825</em>.</p>
+      	</span> 
+    </div>
+    
+    <script>
+    document.getElementById('more').onclick = function(){ document.getElementById('header').className = "header revealed" };
+    </script>
+    
+    <div id="entries" class="entries">
+			<div class="entry web">
+				<h2 class="title">
+					Myanmar’s Generals Run a Nearly Sanction-Proof Business Empire
+				</h2>
+				<br/>
+				<span class="fade">
+					Bloomberg News, May 2021
+				</span> 
+				
+				<div class="banner">
+					<div class="image web ">
+						<a class="" target="_blank" href="https://www.bloomberg.com/graphics/2021-myanmar-military-business/">  
+							<img src="thumbnails/myanmar.png">
+						</a>
+					</div>
+					</div>
+			</div>
+			
+			
+			<div class="entry web">
+				<h2 class="title">
+					China’s Covid Rebound Edges It Closer to Overtaking U.S. Economy
+				</h2>
+				<br/>
+				<span class="fade">
+					Bloomberg News, March 2021
+				</span> 
+				
+				<div class="banner">
+					<div class="image web ">
+						<a class="" target="_blank" href="https://www.bloomberg.com/graphics/2021-china-accelerated-growth/">  
+							<img src="thumbnails/china-gdp.png">
+						</a>
+					</div>
+					</div>
+			</div>
+            
+			<div class="entry web">
+				<h2 class="title">
+					How China’s Influence Is Reshaping the Landscape of Hong Kong
+				</h2>
+				<br/>
+				<span class="fade">
+					Bloomberg News, March 2021
+				</span> 
+				
+				<div class="banner">
+					<div class="image web ">
+						<a class="" target="_blank" href="https://www.bloomberg.com/graphics/2021-china-reshaping-hong-kong/">  
+							<img src="thumbnails/hk.png">
+						</a>
+					</div>
+					</div>
+			</div>
+			
+			<div class="entry web">
+				<h2 class="title">
+					How an Online Scandal Put Jack Ma’s Media World in the Spotlight
+				</h2>
+				<br/>
+				<span class="fade">
+					Bloomberg News, February 2021
+				</span> 
+				
+				<div class="banner">
+					<div class="image web ">
+						<a class="" target="_blank" href="https://www.bloomberg.com/graphics/2021-jack-ma-media-investments/">  
+							<img src="thumbnails/jackma.png">
+						</a>
+					</div>
+					</div>
+			</div>
+            
+            <div class="entry web">
+                <h2 class="title">
+					Who Gets to Breathe Clean Air in New Delhi?
+                </h2>
+                <br/>
+                <span class="fade">
+                    The New York Times, December 2020
+                </span> 
+                
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html">  
+                            <img src="thumbnails/delhi.png">
+                        </a>
+                    </div>
+                    </div>
+            </div>
 
-      <img src="https://i.ibb.co/4j7ZXYj/shada.png" alt="Work Image">
+            <div class="entry web">
+                <h2 class="title">
+                Battle in the Himalayas
+                </h2>
+                <br/>
+                <span class="fade">
+                    The New York Times, July 2020
+                </span> 
+                
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="https://www.nytimes.com/interactive/2020/07/18/world/asia/china-india-border-conflict.html">  
+                            <video inline muted autoplay loop src="thumbnails/himalayas.mp4">
+                        </a>
+                    </div>
+                    </div>
+                </div>
 
-      <p>I have worked on local, state, and general elections across South Asia, created personalized calculators, and conducted multiple data-driven investigations. Some of my important works:</p>
+                <div class="entry web">
+                    <h2 class="title">
+                    How the Virus Got Out
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                        The New York Times, March 2020
+                    </span> 
+                    
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html">  
+                                <video inline muted autoplay loop src="thumbnails/how-virus-got-out.mp4">
+                            </a>
+                        </div>
+                        </div>
+                    </div>
+       
+            <div class="entry web">
+                <h2 class="title">
+                120,000 Missing Deaths:Tracking the True Toll of the Coronavirus Outbreak
+                </h2>
+                <br/>
+                <span class="fade">
+                    The New York Times, first published in April 2020
+                </span> 
+                
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html">  
+                            <img src="thumbnails/excess-death.png">
+                        </a>
+                    </div>
+                    </div>
+            </div>
 
-      <!-- Graphics -->
-      <h3>Graphics</h3>
-      <h4>India tunnel collapse</h4>
-      <img src="https://i.ibb.co/5WTQVyV/tunnel.png" alt="India tunnel collapse">
-      <p>Uttarakhand tunnel collapse: Drilling machine brings <a href="https://www.bbc.com/news/world-asia-india-67435642">hope</a> to trapped Indian workers</p>
+                <div class="entry web">
+                    <h2 class="title">
+                    How the Coronavirus Compares With 100 Years of Deadly Events
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    The New York Times, June 2020
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://www.nytimes.com/interactive/2020/06/10/world/coronavirus-history.html">  
+                                <img src="thumbnails/excess-death-city.png">
+                            </a>
+                        </div>
+                    </div>
+            </div>
+                
 
-      <!-- Elections in South Asia -->
-      <h3>Elections in South Asia</h3>
-      <p>General Elections in <a href="https://www.bbc.com/news/world-asia-india-48315659">India</a>, <a href="https://www.bbc.com/urdu/pakistan-44922604">Pakistan</a>, and <a href="https://www.bbc.com/bengali/news-46603636">Bangladesh</a>. Want to know how we covered these elections from Delhi? Read more <a href="https://shadabnazmi.medium.com/how-delhi-visual-journalism-covered-pakistan-elections-b55a8ebc3b96">here.</a></p>
+            <div class="entry web">
+                <h2 class="title">
+                Italy’s Virus Shutdown Came Too Late. What Happens Now?
+                </h2>
+                <br/>
+                <span class="fade">
+                    The New York Times, April 2020
+                </span> 
+                
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="https://www.nytimes.com/interactive/2020/04/05/world/europe/italy-coronavirus-lockdown-reopen.html">  
+                            <img src="thumbnails/italy.png">
+                        </a>
+                    </div>
+                    </div>
+            </div>
+            
 
-      <!-- More content goes here -->
-      <!-- ... -->
-    </section>
+                <div class="entry web">
+                    <h2 class="title">
+                    Coronavirus Could Overwhelm U.S. Without Urgent Action, Estimates Say
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    The New York Times, March 2020
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://www.nytimes.com/interactive/2020/03/20/us/coronavirus-model-us-outbreak.html">  
+                                <img src="thumbnails/us-model.png">
+                            </a>
+                        </div>
+                    </div>
+            </div>
+                
 
-    <!-- Interviews and conversations -->
-    <section>
-      <h2>Interviews and Conversations</h2>
+            <div class="entry web">
+                <h2 class="title">
+                How Bad Will theCoronavirus Outbreak Get? Here Are 6 Key Factors
+                </h2>
+                <br/>
+                <span class="fade">
+                    The New York Times, first published in Feb. 2020
+                </span> 
+                
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html">  
+                            <img src="thumbnails/virus-explainer.png">
+                        </a>
+                    </div>
+                    </div>
+            </div>
 
-      <a href="https://tcij.org/summer-conference-event/cijsummer-india-covid-19-discussion/"><img src="https://i.ytimg.com/vi/n0fQuPDFAks/maxresdefault.jpg" alt="Interview Image 1"></a>
-      <p>No Country Left Behind? The Indian Covid-19 catastrophe: The Center for Investigative Journalism</p>
+            <div class="entry web">
+                    <br/><br/>
+                    <h2 class="title">
+                    Coronavirus Map: Tracking the Global Outbreak
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    The New York Times, first published in Jan. 2020 
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html">  
+                                <img src="thumbnails/virus-tracker.png">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+            <div class="entry web">
+                <h2 class="title">
+                    Killer Slime, Dead Birds, an Expunged Map: The Dirty Secrets of European Farm Subsidies
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                        The New York Times, Dec. 2019
+                    </span> 
+                    
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://www.nytimes.com/interactive/2019/12/25/world/europe/farms-environment.html">  
+                                <img src="thumbnails/baltic.png">
+                            </a>
+                        </div>
+                    </div>
+        </div>
 
-      <a href="https://journalists.org/resources/early-career-tips-from-our-2019-mj-bear-fellows/"><img src="https://journalists.org/wp-content/uploads/2019/10/ONA_Conference_2019_2AD5374-e1570482353142.jpg" alt="Interview Image 2"></a>
-      <p>Early career tips for journalists and students: Online News Association, New Orleans, 2019</p>
+        
+            
+        <div class="entry web">
+                <h2 class="title">
+                    Tiny Apartments and Punishing Work Hours: The Economic Roots of Hong Kong’s Protests
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    The New York Times, July 2019
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://www.nytimes.com/interactive/2019/07/22/world/asia/hong-kong-housing-inequality.html">  
+                                <img src="thumbnails/hk-housing.jpg">
+                            </a>
+                        </div>
+                    </div>
+            </div>  
 
-      <!-- More content goes here -->
-      <!-- ... -->
-    </section>
+            <div class="entry web">
+                <h2 class="title">
+                A Bird’s-Eye View of How Protesters Have Flooded Hong Kong Streets
+                </h2>
+                <br/>
+                <span class="fade">
+                The New York Times, June 2019
+                </span> 
+            
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="https://www.nytimes.com/interactive/2019/06/20/world/asia/hong-kong-protest-size.html">  
+                            <img src="thumbnails/hk-bird-eye.jpg">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entry web">
+                <h2 class="title">
+                    India Election 2019: A Simple Guide to the World’s Largest Vote
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    The New York Times, May 2019
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://www.nytimes.com/interactive/2019/world/asia/india-election.html">  
+                                <img src="thumbnails/india-election.jpg">
+                            </a>
+                        </div>
+                    </div>
+            </div>
+                
 
-    <!-- Awards and Recognition -->
-    <section>
-      <h2>Awards & Recognition</h2>
+            <div class="entry web">
+                <h2 class="title">
+                ISIS Lost Its Last Territory in Syria. But the Attacks Continue.
+                </h2>
+                <br/>
+                <span class="fade">
+                The New York Times, March 2019
+                </span> 
+            
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="https://www.nytimes.com/interactive/2019/03/23/world/middleeast/isis-syria-defeated.html">  
+                            <video inline muted autoplay loop src="thumbnails/isis.mov">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="entry web">
+                <h2 class="title">
+                    From 8,600 Flights to Zero: Grounding the Boeing 737 Max 8
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    The New York Times, March 2019
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://www.nytimes.com/interactive/2019/03/11/world/boeing-737-max-which-airlines.html">  
+                                <video inline muted autoplay loop src="thumbnails/boeing.mov">
+                            </a>
+                        </div>
+                    </div>
+            </div>
+                
 
-      <p>Posit PBC Opportunity Scholar [Formerly known as R Studio], Chicago, United States [September, 2023]</p>
-      <p>National Press Foundation <a href="https://nationalpress.org/newsfeed/npf-selects-22-journalists-for-2022-international-trade-fellowship-in-singapore/">fellow</a>, Singapore [August, 2022]</p>
-      <!-- Add more awards here -->
-      <!-- ... -->
-    </section>
+            <div class="entry web">
+                <h2 class="title">
+                    Going Grey
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    Reuters
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://graphics.reuters.com/JAPAN-AGING/010091PB2LH/index.html">  
+                                <img src="thumbnails/aging-japan.png">
+                            </a>
+                        </div>
+                    </div>
+            </div>
 
-    <!-- Teaching experience -->
-    <section>
-      <h2>Teaching Experience</h2>
+                <div class="entry web">
+                    <h2 class="title">
+                    How Kerala’s dams failed to prevent catastrophe
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    Reuters, Oct. 2018
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://graphics.reuters.com/INDIA-FLOOD/010080MF18N/index.html">  
+                                <img src="thumbnails/kerala.png">
+                            </a>
+                        </div>
+                    </div>
+            </div>
+                
 
-      <p>University of Indonesia, Jakarta</p>
-      <p>University of Madison, Wisconsin, United States</p>
-      <!-- Add more teaching experiences here -->
-      <!-- ... -->
-    </section>
+            <div class="entry web">
+                <h2 class="title">
+                    Destruction in Palu
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    Reuters, Oct. 2018
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://graphics.reuters.com/INDONESIA-QUAKE/010080MZ19R/index.html">  
+                                <img src="thumbnails/palu.png">
+                            </a>
+                        </div>
+                    </div>
+            </div>
 
-    <!-- Citations -->
-    <section>
-      <h2>Citations</h2>
+                <div class="entry web">
+                    <h2 class="title">
+                    The cancer eating away at farms
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    Reuters, Aug. 2018
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://graphics.reuters.com/AUSTRALIA-DROUGHT/010071MC33G/index.html">  
+                                <img src="thumbnails/oz-drought.png">
+                            </a>
+                        </div>
+                    </div>
+            </div>
+                
 
-      <p><a href="http://www.envirobiotechjournals.com/EEC/vol28maysuppl/EEC-34.pdf">COVID-19 Pandemic in India</a>: First Wave v/s Second Wave: Rashmi Rameshwari, Devendra Kumar Verma and Meenu Aggarwal [EM International]</p>
-      <!-- Add more citations here -->
-      <!-- ... -->
-    </section>
+            <div class="entry web">
+                <h2 class="title">
+                    Lucky 13
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    Reuters, July 2018
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://graphics.reuters.com/THAILAND-ACCIDENT-CAVE/0100711G258/index.html">  
+                                <img src="thumbnails/thai-cave.png">
+                            </a>
+                        </div>
+                    </div>
+            </div>
 
-    <!-- Random thoughts -->
-    <section>
-      <h2>Random thoughts?</h2>
+                <div class="entry web">
+                    <h2 class="title">
+                        Tracking expansion in the South China Sea
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    Reuters, May 2018
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://graphics.reuters.com/CHINA-SOUTHCHINASEA-BUILDING/010070760H9/index.html">  
+                                <img src="thumbnails/scs.png">
+                            </a>
+                        </div>
+                    </div>
+            </div>
+                
 
-      <img src="https://pbs.twimg.com/media/FhrM_1fUoAUkfLk?format=jpg&name=large" alt="Isometric map of Quetta region">
-      <p>Isometric map of Quetta region made on R by Shadab Nazmi</p>
+            <div class="entry web">
+                <h2 class="title">
+                    How fishing fleets comb the ocean
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    Reuters, Feb. 2018
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://graphics.reuters.com/GLOBAL-FISHING/010061031ZS/index.html">  
+                                <img src="thumbnails/fishing.png">
+                            </a>
+                        </div>
+                    </div>
+            </div>
 
-      <!-- Add more random thoughts here -->
-      <!-- ... -->
-    </section>
+                <div class="entry web">
+                    <h2 class="title">
+                        Oil spilled at sea
+                    </h2>
+                    <br/>
+                    <span class="fade">
+                    Reuters, Jan. 2018
+                    </span> 
+                
+                    <div class="banner">
+                        <div class="image web ">
+                            <a class="" target="_blank" href="https://graphics.reuters.com/OIL-SPILLS/010060SL1GQ/index.html">  
+                                <img src="thumbnails/oil-spill.png">
+                            </a>
+                        </div>
+                    </div>
+            </div>
 
-    <!-- Twitter link -->
-    <p>Let's catch up on <a href="https://twitter.com/shadabnazmi">Twitter?</a></p>
+            <div class="entry web">
+                <h2 class="title">How the Sanchi's oil could spread</h2>
+                <br/>
+                
+                <span class="fade">Reuters, Jan. 2018</span> 
+                
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="http://fingfx.thomsonreuters.com/gfx/rngs/CHINA-SHIPPING-SPILL/010060NC166/index.html">  
+                            <img src="thumbnails/sanchi.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="entry web">
+                <h2 class="title">The boys from Davao</h2>
+                <br/>
+                <span class="fade">Reuters, Dec. 2017</span> 
+            
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="http://fingfx.thomsonreuters.com/gfx/rngs/PHILIPPINES-DRUGS/01006028044/index.html">  
+                            <img src="thumbnails/davao.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="entry web">
+                <h2 class="title">Operation Kill</h2>
+                <br/>
+                
+                <span class="fade">Reuters, Nov.2017</span> 
+                
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="http://fingfx.thomsonreuters.com/gfx/rngs/PHILIPPINES-DRUGWAR/010051VF46X/index.html">  
+                            <img src="thumbnails/operation-kill.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="entry web">
+                <h2 class="title">Mass Exodus: Scale of the Rohingya Crisis</h2>
+                <br/>
+                <span class="fade">Reuters, Sept. 2017</span> 
+            
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="http://fingfx.thomsonreuters.com/gfx/rngs/MYANMAR-ROHINGYA/010050XD232/index.html">  
+                            <img src="thumbnails/exodus.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+                
+            <div class="entry web">
+                <h2 class="title">A new dawn
+                    in inter-Korean relations</h2>
+                <br/>
+                
+                <span class="fade">Reuters, July 2017</span> 
+                
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="http://fingfx.thomsonreuters.com/gfx/rngs/INTERKOREA-RELATIONS/010041MD3JB/index.html">  
+                            <img src="thumbnails/inter-korea.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="entry web">
+                <h2 class="title">Dead on Arrival</h2>
+                <br/>
+                <span class="fade">Reuters, June 2017</span> 
+            
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="http://fingfx.thomsonreuters.com/gfx/rngs/PHILIPPINES-DRUGWAR/010041TN3Z8/index.html">  
+                            <img src="thumbnails/doa.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="entry web">
+                <h2 class="title">
+                <br/>
+                Motion graphics explaining Japan's monetary policy
+                </h2>
+                <br/>
+                <span class="fade">
+                Reuters, 2017
+                </span> 
+            
+                <div class="banner">
+                    <div class="image web ">
+                        <a class="" target="_blank" href="http://fingfx.thomsonreuters.com/gfx/rngs/JAPAN-ECONOMY/010020BK0T2/index.html">  
+                            <video inline muted autoplay loop src="thumbnails/boj.mov">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            
+    </div>
+
+    <div class="awards" id="awards">
+      <h1>Awards & recognitions</h1>
+      
+      <br/>
+      
+      <h2>2021</h2>
+      <p><b>Society for News Design 42 </b>Best in show/Gold for Story Page Design: International/Gold for Infographics: Environment & Science/Story Page Design: Environment & Science/ &mdash; Who gets to breathe clean air in New Delhi</p>
+      <p><b>Society for News Design 42 </b>Silver for Infographics: International  &mdash; How the Virus Got Out</p>
+      <br/>
+
+      <h2>2020</h2>
+      <p><b>NYT Publisher's Award </b> How the Virus Got Out</p>
+      <p><b>NYT Publisher's Award </b> Coronavirus Map: Tracking the Global Outbreak</p>
+      <p><b>Society for News Design 41 </b> Bronze &mdash; A Bird’s-Eye View of How Protesters Have Flooded Hong Kong Streets</p>
+      <p><b>Malofiej 28 </b> Humans Best Graphic Awards/Gold for Features Print &mdash; A Bird’s-Eye View of How Protesters Have Flooded Hong Kong Streets</p>
+      <p><b>SOPA </b> Excellence in Information Graphics &mdash; A Bird’s-Eye View of How Protesters Have Flooded Hong Kong Streets</p>
+      <br/>
+
+      <h2>2019</h2>
+      <p><b>SOPA </b> Excellence in Journalistic Innovation &mdash; Mining data from the sky</p>
+      <p><b>SOPA </b> Excellence in Information Graphics &mdash; The Sanchi oil spill</p>
+      <p><b>Malofiej 27</b> Gold &mdash; Tracking China’s Muslim Gulag
+      <p><b>Malofiej 27</b> Silver &mdash; Destruction in Palu
+      <p><b>Malofiej 27</b> Bronze &mdash; A remote home for the Rohingya
+      <p><b>Malofiej 27</b> Bronze &mdash; How Kerala's dams failed to prevent catastrophe
+      <p><b>Malofiej 27</b> Bronze &mdash; How the Sanchi’s oil could spread
+      <p><b>Malofiej 27</b> Bronze &mdash; One year past no end in sight
+      <p><b>Malofiej 27</b> Bronze &mdash; Tragedy on Lake Toba
+      <p><b>Society for News Design 40 </b> Silver &mdash; Lucky 13</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; Concrete and coral: Tracking expansion in the South China Sea</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; Australia’s drought: The cancer eating away at farms</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; Tracking China’s Muslim Gulag</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; A drifting inferno</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; Devastation in Lombok</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; A remote home for the Rohingya</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; Destruction in Palu</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; Tragedy on Lake Tob</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; Japan flooding: Death and destruction</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; Oil spilled at sea: Putting the Sanchi disaster into perspective</p>
+      <p><b>Society for News Design 40 </b> Bronze &mdash; Casting a wider net: How fishing fleets comb the ocean</p>
+
+
+      <h2>2018</h2>
+      <p><b>SOPA </b> Excellence in Journalistic Innovation &mdash; The Rohingya Crisis</p>
+      <p><b>SOPA </b> Excellence in Information Graphics &mdash; Duterte’s War on Drugs</p>
+      <p><b>Malofiej 26</b> Silver &mdash; Mass Exodus
+    
+      <br/>
+    
+    
+    </div>
   </div>
+
 </body>
 
 </html>
