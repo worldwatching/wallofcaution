@@ -2,10 +2,10 @@
   body {
     font: 15px/18px 'Helvetica', sans-serif;
     color:#888;
-    background-color: #808080;
+    background-color: #fff;
   }
   a { 
-    color:white; 
+    color:black; 
   }
   
   .content {
